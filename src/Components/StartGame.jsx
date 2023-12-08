@@ -7,7 +7,6 @@ function StartGame({ togle }) {
   return (
     <Container>
       <div>
-        {" "}
         <img src="/images/dices 1.png" />
       </div>
       <div className="content">
